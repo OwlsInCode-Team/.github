@@ -10,7 +10,7 @@
 
 At OwlsInCode, we embrace independence and creativity, focusing on crafting unique projects driven by passion. Our team is dedicated to delivering innovative tech solutions that achieve exceptional results across various domains.
 
-### Our Expertise
+### 👨🏻‍💻 Our Expertise
 
 💻 **Programming**  
 Mastering a range of programming languages to provide precise and tailored code solutions.

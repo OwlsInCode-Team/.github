@@ -43,8 +43,4 @@ Our Software-as-a-Service offerings simplify and enhance your business operation
 - **Efficiency:** We streamline processes and boost productivity to save you time and resources.
 - **Cutting-Edge:** We use the latest technology to keep you ahead of the curve.
 
-### 👥 Meet the Team (1/6)
-
-- [OSSAMA ETTAQAFI](https://github.com/imossama)
-
 Partner with OwlsInCode and experience the difference of working with a dedicated team focused on your success!

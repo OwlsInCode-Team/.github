@@ -1,4 +1,4 @@
-### 🙋🏻‍♂️ Welcome to OwlsInCode!
+<h3 align="center">🙋🏻‍♂️ WELCOME TO OWLSINCODE!</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔜 Coming%20Soon%20%7C%20Future-2F2F2F?logo=&style=for-the-badge"><br/>
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/🏆 Exceptional%20Results-2F2F2F?logo=&style=for-the-badge">
 </p>
 
+### 🎈 About
 At OwlsInCode, we embrace independence and creativity, focusing on crafting unique projects driven by passion. Our team is dedicated to delivering innovative tech solutions that achieve exceptional results across various domains.
 
 ### 👨🏻‍💻 Our Expertise

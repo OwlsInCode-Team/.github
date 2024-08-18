@@ -1,4 +1,4 @@
-<h3 align="center">🙋🏻‍♂️ WELCOME TO OWLSINCODE!</h3>
+<h3 align="center">🙋🏻‍♂️ WELCOME TO OWLSINCODE TEAM!</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🔜 Coming%20Soon%20%7C%20Future-2F2F2F?logo=&style=for-the-badge"><br/>

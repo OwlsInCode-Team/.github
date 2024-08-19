@@ -54,3 +54,5 @@ Offering Software-as-a-Service solutions to simplify and enhance business operat
 - Creativity: Encouraging creativity to find breakthrough solutions. 🎨
 
 **OwlsInCode** is all about harnessing autonomy, innovation, and creativity to craft exceptional tech solutions. We thrive in a dynamic, self-driven environment and are always eager to collaborate with like-minded individuals. **Interested in joining us or sharing your code and ideas?** Reach out at [owlsincode@gmail.com](mailto:owlsincode@gmail.com) or connect with the team. Let’s turn your vision into reality! 🚀
+
+[YouTube](https://www.youtube.com/@OwlsInCode) | [Discord](https://discord.gg/y3HRgF9w) | [Slack](https://join.slack.com/t/owlsincode/shared_invite/zt-2p5cs4eds-0x9iGlh01HpGtLUpEMrrfQ) | [GitHub](https://github.com/OwlInCode-Lessons) | [X](https://x.com/OwlsInCode) | [Medium](https://medium.com/@owlsincode)
